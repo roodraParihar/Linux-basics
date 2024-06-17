@@ -20,6 +20,30 @@
 **4. Fish (Friendly Interactive Shell) :** Ideal for developers looking for a straightforward, intuitive shell with powerful interactive features. Less suited for complex scripting due to its unique syntax. 
 
 
+## Process Management
+
+
+# Display information about running processes
+ps aux
+
+# Display a real-time view of running processes
+top
+
+## Disk Usage
+# Display disk space usage
+df -h
+
+# Display directory space usage
+du -sh directory_name
+
+
+# Terminate a process by its PID
+kill pid
+
+# Terminate all processes by name 
+killall process_name
+
+
 ## File and Directory Operations
 
 ```sh
