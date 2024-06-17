@@ -1,6 +1,6 @@
 # Linux-basics
 ## Here's a simple visual representation to show the hierarchy:
-Linux (Kernel)
+## Linux (Kernel)
     ├── Debian (Distribution)
     │    ├── Ubuntu (Distribution based on Debian)
     │    └── Other Debian-based distributions
