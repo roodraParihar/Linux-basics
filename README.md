@@ -18,3 +18,51 @@
 **2. Korn Shell (ksh) :** Widely used in enterprise environments for its scripting power and interactive features. <br>
 **3. Bourne Shell (sh) :** Still widely used for scripting and as a fallback shell due to its simplicity and universal availability. <br>
 **4. Fish (Friendly Interactive Shell) :** Ideal for developers looking for a straightforward, intuitive shell with powerful interactive features. Less suited for complex scripting due to its unique syntax. 
+
+
+## File and Directory Operations
+
+```sh
+# List directory contents
+ls
+
+# Change the current directory
+cd /path/to/directory
+
+# Print the current working directory
+pwd
+
+# Create a new directory
+mkdir new_directory
+
+# Remove an empty directory
+rmdir directory_name
+
+# Remove files or directories
+rm file_name
+rm -r directory_name  # Remove a directory and its contents
+
+# Copy files or directories
+cp source_file destination_file
+cp -r source_directory destination_directory
+
+# Move or rename files or directories
+mv old_name new_name
+mv file_name /path/to/destination
+
+# Create an empty file or update the timestamp of an existing file
+touch new_file
+
+# Concatenate and display the content of files
+cat file_name
+
+# View the content of a file one screen at a time
+more file_name
+less file_name
+
+# Display the first few lines of a file
+head file_name
+
+# Display the last few lines of a file
+tail file_name
+
