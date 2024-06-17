@@ -24,7 +24,7 @@
 
 
 **Display information about running processes** <br>
-ps aux
+-**ps aux**
 
 **Display a real-time view of running processes** <br>
 top
@@ -44,8 +44,20 @@ kill pid
 killall process_name
 
 # Some more initiation commands
-**moving the files**
+**moving the files** <br>
 mv source_file destination
+
+**Move a file to a directory:**
+mv file.txt /path/to/directory/
+
+Eg: mv file.txt /path/file.txt
+
+**Copy the file and paste some other directory**
+cp file.txt /path/file.txt
+
+**moving to the root node**
+cd /
+because linux system follows the tree like structure
 
 
 
