@@ -14,7 +14,7 @@
 **Bash:** A specific type of shell that is an enhanced version of the Bourne Shell, with advanced features for both interactive use and scripting. Bash is widely used as the default shell on many systems.
 
 ## Different types of shell and Bash (mainly used by people)
-**1. Bash (Bourne Again Shell) :** Ideal for scripting, automation, and general command-line tasks. Its widespread use makes it a standard choice in many development environments.
-**2. Korn Shell (ksh) :** Widely used in enterprise environments for its scripting power and interactive features.
-**3. Bourne Shell (sh) :** Still widely used for scripting and as a fallback shell due to its simplicity and universal availability.
-**4. Fish (Friendly Interactive Shell) :** Ideal for developers looking for a straightforward, intuitive shell with powerful interactive features. Less suited for complex scripting due to its unique syntax.
+**1. Bash (Bourne Again Shell) :** Ideal for scripting, automation, and general command-line tasks. Its widespread use makes it a standard choice in many development environments. <br>
+**2. Korn Shell (ksh) :** Widely used in enterprise environments for its scripting power and interactive features. <br>
+**3. Bourne Shell (sh) :** Still widely used for scripting and as a fallback shell due to its simplicity and universal availability. <br>
+**4. Fish (Friendly Interactive Shell) :** Ideal for developers looking for a straightforward, intuitive shell with powerful interactive features. Less suited for complex scripting due to its unique syntax. 
