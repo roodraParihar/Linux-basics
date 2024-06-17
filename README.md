@@ -23,24 +23,24 @@
 ## Process Management
 
 
-# Display information about running processes
+**Display information about running processes**
 ps aux
 
-# Display a real-time view of running processes
+**Display a real-time view of running processes**
 top
 
 ## Disk Usage
-# Display disk space usage
+**Display disk space usage**
 df -h
 
-# Display directory space usage
+**Display directory space usage**
 du -sh directory_name
 
 
-# Terminate a process by its PID
+**Terminate a process by its PID**
 kill pid
 
-# Terminate all processes by name 
+**Terminate all processes by name**
 killall process_name
 
 
