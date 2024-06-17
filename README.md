@@ -24,7 +24,8 @@
 
 
 **Display information about running processes** <br>
--**ps aux**
+```sh
+    ps aux
 
 **Display a real-time view of running processes** <br>
 top
