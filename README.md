@@ -1,5 +1,5 @@
 # Linux-basics
-## Here's a simple visual representation to show the hierarchy:
+## Here's a simple representation of hierarchy:
 ## Linux (Kernel)
     ├── Debian (Distribution)
     │    ├── Ubuntu (Distribution based on Debian)
