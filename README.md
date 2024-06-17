@@ -43,6 +43,12 @@ kill pid
 **Terminate all processes by name** <br>
 killall process_name
 
+# Some more initiation commands
+**moving the files**
+```bash
+mv source_file destination
+
+
 
 ## File and Directory Operations
 
