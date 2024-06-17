@@ -45,7 +45,6 @@ killall process_name
 
 # Some more initiation commands
 **moving the files**
-```bash
 mv source_file destination
 
 
