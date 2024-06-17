@@ -10,7 +10,7 @@
     └── Other Linux distributions
 
 ## Shell vs Bash
-Shell: A general term for any command-line interpreter used in Unix-like operating systems. There are many types of shells, each with its own unique features and syntax.
+Shell: A general term for any command-line interpreter used in Unix-like operating systems. There are many types of shells, each with its own unique features and syntax. //
 Bash: A specific type of shell that is an enhanced version of the Bourne Shell, with advanced features for both interactive use and scripting. Bash is widely used as the default shell on many systems.
 
 ## Different types of shell and Bash (mainly used by people)
