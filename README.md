@@ -62,6 +62,21 @@ because linux system follows the tree like structure
 
 ## Some important commands and their info
 1. if there is no permission then to change in the root node then we can use "sudo" and if wanna act as root node then can use "sudo su" but this is not recommonded.
+2. sudo apt update --> tell the what are software can be upgrade.
+3. sudo apt upgrade --> command will install the new versions of software available as per latest.
+4. ls -R --> will show directory content as well as inside directory what are the files it will also show it means it runs recursively.
+5. touch .roodra --> here we can make hidden files (if we start with . extention) but ls command will not show the hidden files so use "ls -a" , it will show hidden files as well.
+6. "history" --> command will show all the commands run by me.
+7. echo --> command will print anything ahead of it. eg: echo roodra then it will print "roodra"
+8. linux is case sensitive
+9. with the help of apt we can install any software eg: sudo apt install apache2.
+10. Linux permission ---> like who can read, write and execute the files or our directory. chmode calculator calculates the number and give permisiion access to the owner , group and public.
+11. ps -a --> shows all the background process
+12. ps as well work
+13. kill --> kill command will stop the process ID (PID) like eg: kill 23214  (this is the PID) then it will shut kill that particular process.
+14. using vim we can edit files --> sudo install vim
+15. using vim command we can edit the text files within the terminal --> eg: vimm roodra.txt  -->hit enter will open file then click i then start writting for save  esc : --> then "wq" and if we do not want to save then q . wim will exit.
+16. 
 
 
 
