@@ -60,6 +60,10 @@ cd /
 because linux system follows the tree like structure
 
 
+## Some important commands and their info
+1. if there is no permission then to change in the root node then we can use "sudo" and if wanna act as root node then can use "sudo su" but this is not recommonded.
+
+
 
 ## File and Directory Operations
 
